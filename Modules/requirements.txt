@@ -1,7 +1,0 @@
-pyrogram
-tgcrypto
-motor
-yt-dlp
-aiohttp
-aiofiles
-python-dotenv
